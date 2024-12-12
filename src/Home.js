@@ -52,7 +52,7 @@ const Berita = () => {
           data={data}
           renderItem={({item}) => (
             <Card p="$5" borderRadius="$lg" m="$3">
-              <Image
+              {/*<Image
                 mb="$6"
                 h={240}
                 width="$full"
@@ -61,7 +61,7 @@ const Berita = () => {
                 source={{
                   uri: '' + item.urlToImage + '',
                 }}
-              />
+              /> */}
               <Text
                 fontSize="$sm"
                 fontStyle="normal"
@@ -115,7 +115,7 @@ const Home = () => {
     <GluestackUIProvider config={config}>
       {/* <Button>
         <ButtonText>Hello World</ButtonText>
-      </Button> */}
+  </Button> */}
 
       <Alert mx="$2.5" action="info" variant="outline">
         {/* <AlertIcon as={InfoIcon} mr="$3" /> */}
