@@ -19,7 +19,7 @@ Newajeans adalah aplikasi berita yang dibuat menggunakan React Native dengan Exp
 src/
 ├── components/      # Komponen UI aplikasi
 ├── screens/         # Halaman utama aplikasi
-├── redux/           # Pengelolaan state aplikasi (jika ada)
+├── redux/           # Pengelolaan state aplikasi 
 └── utils/           # Fungsi-fungsi utilitas
 ```
 
