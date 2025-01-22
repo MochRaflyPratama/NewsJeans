@@ -1,15 +1,15 @@
-# Aplikasi Mobile Berita ( NewsJeans )
+Aplikasi Mobile Berita ( NewsJeans )
 
 Aplikasi Mobile Berita adalah aplikasi sederhana yang menyediakan berita terkini menggunakan React Native dan Expo.
 
-## Fitur
+Fitur
 - Menampilkan daftar berita terbaru.
 - Detail berita dengan informasi lengkap.
 - Navigasi yang mudah digunakan.
 
 ---
 
-## Persyaratan Sistem
+Persyaratan Sistem
 Pastikan perangkat Anda memenuhi persyaratan berikut:
 - **Node.js**: Versi 14 atau lebih baru.
 - **Expo CLI**: Terinstal secara global.
@@ -18,13 +18,13 @@ Pastikan perangkat Anda memenuhi persyaratan berikut:
 
 ---
 
-## Cara Instalasi
+Cara Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal aplikasi ini di perangkat Anda.
 
-### 1. Clone Repositori
+1. Clone Repositori
 Clone proyek ini ke lokal Anda:
-```bash
+
 git clone https://github.com/username/mobile-berita.git
 cd mobile-berita
 
@@ -73,7 +73,7 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi ini di perangkat Anda.
 
 ### 1. Clone Repositori
 Clone proyek ini ke lokal Anda:
-```bash
+
 git clone https://github.com/username/mobile-berita.git
 cd mobile-berita
 2. Install Dependency
