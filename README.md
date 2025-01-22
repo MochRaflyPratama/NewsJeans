@@ -36,7 +36,7 @@ npm install
 3. Jalankan Proyek
 Jalankan server Expo:
 
-bash
+
 Salin
 Edit
 npx expo start
@@ -79,14 +79,14 @@ cd mobile-berita
 2. Install Dependency
 Jalankan perintah berikut untuk menginstal semua dependency:
 
-bash
+
 Salin
 Edit
 npm install
 3. Jalankan Proyek
 Jalankan server Expo:
 
-bash
+
 Salin
 Edit
 npx expo start
@@ -102,13 +102,17 @@ Untuk membangun APK menggunakan Expo:
 
 Pastikan Anda sudah memiliki akun Expo.
 Jalankan perintah berikut:
-bash
+
 Salin
 Edit
 eas build --platform android
 Setelah proses selesai, unduh file APK dari URL yang diberikan.
 Kontribusi
-Kontribusi sangat diterima! Silakan buat pull request atau laporkan masalah di Issues.
+Moch Rafly Pratama - 17221025
+Aldi Supriyadi - 17223010
+Muhammad Iqbal Anshori - 17223006
+Muhammad Ali Zafar Sidiq - 17223025
+Ilham Fahri Husaeni - 17224012
 
 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
