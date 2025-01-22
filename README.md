@@ -41,10 +41,11 @@ src/
 
 ## 👥 Anggota Kelompok
 - **Moch Rafly Pratama** - 17221025
-- **Muhammad Ali Zafar Sidiq** - 17223025
 - **Muhammad Iqbal Anshori** - 17223006
+- **Aldi Supriyadi** - 17223010
+- **Muhammad Ali Zafar Sidiq** - 17223025
 - **Ilham Fahri Husaeni** - 17224012
-
+  
 ## 🤝 Kontribusi
 Kami terbuka untuk kontribusi! Silakan fork repositori ini dan ajukan pull request.
 
