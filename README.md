@@ -1,5 +1,5 @@
 
-# Newajeans
+# Newsjeans
 
 Newajeans adalah aplikasi berita yang dibuat menggunakan React Native dengan Expo. Aplikasi ini menyediakan informasi terkini dengan berbagai kategori berita yang dapat diakses dengan mudah dan responsif.
 
